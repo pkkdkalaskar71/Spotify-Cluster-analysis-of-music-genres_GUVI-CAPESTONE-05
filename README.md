@@ -34,12 +34,12 @@ This project's goal is to create a machine learning model that can automatically
 ## 1) Perform cluster analysis of music genres with machine learning based on audio features with the dataset given.
 - Use Elbow Method for Finding the Optimal Number of Clusters in K-Means using python.
 - Calculate the centroid of newly formed clusters using the hierarchial clustering technique.
-- Find out the best possible vector using the Support vector machine algorithm.
+- ~Find out the best possible vector using the Support vector machine algorithm.~
 ## 2) Perform exploratory data analysis using python.
 ## 3) Create visualization
 - Correlation maps
 - Regression plots between various measures
 - Find top five genres by Popularity and plot a barplot.
-## 4) Analyse which method would be the best possible way to achieve the highest rate of classification accuracy and make inferences.
+## ~4) Analyse which method would be the best possible way to achieve the highest rate of classification accuracy and make inferences.~
 
 .
